@@ -1,6 +1,6 @@
 body{
     background-color: rgb(21, 34, 61);
-    
+    color: azure;
 }
 h1{
     color: azure;
@@ -15,4 +15,5 @@ p{
 img{
     height: 200px;
     
+
 }
